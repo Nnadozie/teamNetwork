@@ -1,0 +1,19 @@
+{
+  "name": "teamNetworkBackend",
+  "version": "1.0.0",
+  "description": "Andela capstone backend",
+  "main": "index.js",
+  "repository": "https://github.com/Nnadozie/teamNetwork.git",
+  "author": "Nnadozie <n.e.okeke@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "confusing-browser-globals": "^1.0.9",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "object.assign": "^4.1.0",
+    "object.entries": "^1.1.1",
+    "prettier": "^1.19.1"
+  }
+}
